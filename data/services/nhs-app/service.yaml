@@ -1,0 +1,10 @@
+name: NHS App
+description: An app for the NHS
+flows:
+  -
+    -
+      title: "Home"
+      image: homepage.png
+    -
+      title: "About"
+      image: homepage.png
